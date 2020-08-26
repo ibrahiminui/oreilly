@@ -21,7 +21,7 @@ query: word to filter with
 **endpoint**: [Base url]/book/<book_id> method: GET
 
 
-<h1>Documentation</h1>
+<h1>Documentations</h1>
 **Programming language used**
 ---
 This problem was created using Django Rest Framework and sqlite as the database.
